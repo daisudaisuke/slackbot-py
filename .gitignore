@@ -1,2 +1,3 @@
 #ignore
 slackbot_settings.py
+__pycache__
